@@ -7,6 +7,12 @@ Environment Variables --- Path ---- Edit --- New --- (E:\Softwares\apache-groovy
 Go to Command Prompt verify groovy version 
 5.C:\Users\QC>groovy -version
 Groovy Version: 3.0.8 JVM: 1.8.0_241 Vendor: Oracle Corporation OS: Windows 10
+6.Groovy file extension will be .groovy
+Ex: ForLoop.groovy
+Command to compile groovy program
+groovy class_name.groovy
+groovy ForLoop.groovy
+
 
 Groovy Tutorials Links
 https://kublr.com/blog/advanced-jenkins-groovy-scripting-for-live-fetching-of-docker-images/ Groovy Integration with restful apis 
