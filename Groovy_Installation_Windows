@@ -1,10 +1,11 @@
-Download Groovy from the below url
+1.For Groovy Installation Prerequisite should be Java has to install
+2.Download Groovy from the below url
 https://groovy.jfrog.io/ui/native/dist-release-local/groovy-zips/apache-groovy-binary-3.0.9.zip
-Unzip/Extract to the local file system or folder
-Set the Groovy Installation path in Environment Variables 
+3.Unzip/Extract to the local file system or folder
+4.Set the Groovy Installation path in Environment Variables 
 Environment Variables --- Path ---- Edit --- New --- (E:\Softwares\apache-groovy-sdk-3.0.8\groovy-3.0.8\bin) Copy the groovy Installation path -- Ok -- Ok 
 Go to Command Prompt verify groovy version 
-C:\Users\QC>groovy -version
+5.C:\Users\QC>groovy -version
 Groovy Version: 3.0.8 JVM: 1.8.0_241 Vendor: Oracle Corporation OS: Windows 10
 
 Groovy Tutorials Links
